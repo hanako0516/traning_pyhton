@@ -1,4 +1,4 @@
-import src.dic_and_method as src
+import src.parts.dic_and_method as src
 
 def test_add_01():
     assert src.calcuration('add',2,5) == 7
